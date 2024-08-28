@@ -1,4 +1,3 @@
-# Booth_multiplier
 
 
 module bit16multiplier (
