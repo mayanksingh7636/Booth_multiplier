@@ -101,3 +101,4 @@ module bit4multiplier(
     always @(posedge clk) begin
         c <= {l23_a, l23_q};
     end
+   endmodule
